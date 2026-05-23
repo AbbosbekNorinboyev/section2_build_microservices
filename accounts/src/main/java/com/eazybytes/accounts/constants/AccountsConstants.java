@@ -1,7 +1,7 @@
 package com.eazybytes.accounts.constants;
 
-public class AccountConstants {
-    public AccountConstants() {
+public class AccountsConstants {
+    public AccountsConstants() {
     }
 
     public static final String SAVINGS = "Savings";
